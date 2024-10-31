@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-This is a Major Project
-Wanderlust - An Airbnb Clone.
 =======
 # Airbnb-clone
 Wanderlust is a major project resembling the airbnb website
